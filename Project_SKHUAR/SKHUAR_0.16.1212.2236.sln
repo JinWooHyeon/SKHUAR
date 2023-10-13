@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKHUAR_0.16.1212.2236.CSharp", "SKHUAR_0.16.1212.2236.CSharp.csproj", "{80CFF54A-C3FC-DC70-A18D-46F0B85FAC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKHUAR_0.16.1212.2236.CSharp.Editor", "SKHUAR_0.16.1212.2236.CSharp.Editor.csproj", "{FBAEC891-F7E7-066C-9466-C47409E1479F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CFF54A-C3FC-DC70-A18D-46F0B85FAC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CFF54A-C3FC-DC70-A18D-46F0B85FAC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CFF54A-C3FC-DC70-A18D-46F0B85FAC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CFF54A-C3FC-DC70-A18D-46F0B85FAC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAEC891-F7E7-066C-9466-C47409E1479F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAEC891-F7E7-066C-9466-C47409E1479F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAEC891-F7E7-066C-9466-C47409E1479F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAEC891-F7E7-066C-9466-C47409E1479F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

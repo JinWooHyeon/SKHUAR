@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Untitled-2" size="250.000000 373.745819" />
+    <ImageTarget name="Building06" size="1000.000000 807.980042" />
+    <ImageTarget name="TCPIP" size="188.000000 258.186676" />
+    <ImageTarget name="CProgramming" size="188.000000 256.641846" />
+  </Tracking>
+</QCARConfig>
